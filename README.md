@@ -16,5 +16,5 @@ jupyter notebook dlnd_face_generation.ipynb
 **jupyter**
 
 # Acknowledgement
-This is an project of Udacity DLND(Deep Learning NanoDegree program).
+This is a project of Udacity DLND(Deep Learning NanoDegree program).
 
